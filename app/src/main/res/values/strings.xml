@@ -1,0 +1,44 @@
+<resources>
+        <string name="app_name">Chương trình đổi tiền</string>
+
+        <string name="author">thien thu</string>
+        <string name="computer">Máy tính của Thiên Thư</string>
+
+        <string name="textbox_hint">Nhập số tiền</string>
+
+        <string name="usd_name">American Dollar</string>
+        <string name="eur_name">European Cash</string>
+        <string name="gbp_name">Great Britain</string>
+        <string name="inr_name">Indian Rupee</string>
+        <string name="aud_name">Australia Dollar</string>
+        <string name="cad_name">Canadian Dollar</string>
+        <string name="zar_name">South Africa Rand</string>
+        <string name="nzd_name">New Zealand Dollar</string>
+        <string name="jpy_name">Yên Nhật</string>
+        <string name="vnd_name">Việt Nam Đồng</string>
+
+
+        <string name="usd_unit">USD</string>
+        <string name="eur_unit">EUR</string>
+        <string name="gbp_unit">GBP</string>
+        <string name="inr_unit">INR</string>
+        <string name="aud_unit">AUD</string>
+        <string name="cad_unit">CAD</string>
+        <string name="zar_unit">ZAR</string>
+        <string name="nzd_unit">NZD</string>
+        <string name="jpy_unit">JPY</string>
+        <string name="vnd_unit">VNĐ</string>
+
+        <string name="unit_mm">mm</string>
+        <string name="unit_cm">cm</string>
+        <string name="unit_dm">dm</string>
+        <string name="unit_m">m</string>
+        <string name="unit_km">km</string>
+
+        <string name="unit_inch">inch</string>
+        <string name="unit_ft">ft</string>
+        <string name="unit_yd">yard</string>
+        <string name="unit_mile">mile</string>
+
+
+    </resources>
